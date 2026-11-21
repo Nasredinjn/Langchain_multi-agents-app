@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai 
+streamlit
+
+
+tavily-python
+
+
+beautifulsoup4
+trafilatura 
+requests
+lxml
+readability-lxml
